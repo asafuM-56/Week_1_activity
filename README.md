@@ -1,1 +1,1 @@
-# Week_1_activity
+# This is the initial activity for the Data Science class.
